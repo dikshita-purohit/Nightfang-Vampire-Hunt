@@ -33,7 +33,9 @@ This repository only includes the **Assets** folder from the Unity project (no `
 
 ## 🎥 Gameplay Video
 
-[▶️ Watch Gameplay Video](Img\NightfangVampire_Hunt_record.mp4)
+[▶️ Watch Gameplay Video](
+https://github.com/user-attachments/assets/c3cfc678-1e9f-4f3f-87a4-9ea1ddcaee52)
+
 
 ---
 
